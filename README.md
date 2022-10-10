@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Luiz Dener, i've studying IT since 2021 with focus on back-end development! I currently have knowledge in Python, Java and SQL.
+
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luiz-dener-7154b2215)
+
 <!--
 **luizdener/luizdener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
