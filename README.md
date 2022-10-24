@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Luiz Dener, i've studying IT since 2021 with focus on back-end development and automation of law suits. I currently have knowledge in Python, Java and SQL.
+My name is Luiz Dener, i've studying IT since 2021 with focus on back-end development and process automation. I currently have knowledge in Python, Java and SQL.
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luiz-dener-7154b2215)
 
